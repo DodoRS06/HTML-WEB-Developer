@@ -100,9 +100,9 @@ No Menu, ficará localizado o menu de navegação (ah vá!), no Header de cada p
 
 Desafio está lançado! Com tudo que aprendemos neste Módulo é perfeitamente possível criar este site!
  
-<h2>GitHub<h2>
+<h2>GitHub</h2>
 
-<p>O código-fonte base preparado para este Desafio de Projeto está versionado no GitHub, no seguinte endereço:
+O código-fonte base preparado para este Desafio de Projeto está versionado no GitHub, no seguinte endereço:
 https://github.com/digitalinnovationone/trilha-html-modulo-2
  
-Bons estudos ;) </p>
+Bons estudos ;)
