@@ -102,7 +102,7 @@ Desafio está lançado! Com tudo que aprendemos neste Módulo é perfeitamente p
  
 <h2>GitHub<h2>
 
-O código-fonte base preparado para este Desafio de Projeto está versionado no GitHub, no seguinte endereço:
+<p>O código-fonte base preparado para este Desafio de Projeto está versionado no GitHub, no seguinte endereço:
 https://github.com/digitalinnovationone/trilha-html-modulo-2
  
-Bons estudos wink
+Bons estudos ;) </p>
