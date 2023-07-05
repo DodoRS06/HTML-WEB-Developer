@@ -8,7 +8,7 @@ A formação contém 3 módulos, sendo eles:
 
 <a href="./Primeiras aulas/">Desafio de código I</a> - O desafio consistia em criar uma página simples informando o conteúdo das aulas para fixação e prática dos comandos aprendidos no módulo.
 
-<img src="./Primeiras aulas/img/" width=400>
+<img src="./Primeiras aulas/img/tela.png" width=800>
 
 ## HTML I - Conceitos básicos
 
